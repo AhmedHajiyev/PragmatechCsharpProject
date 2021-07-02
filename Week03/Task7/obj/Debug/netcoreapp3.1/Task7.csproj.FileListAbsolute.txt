@@ -1,0 +1,12 @@
+C:\PragmatechCsharpProject\Week03\Task7\bin\Debug\netcoreapp3.1\Task7.exe
+C:\PragmatechCsharpProject\Week03\Task7\bin\Debug\netcoreapp3.1\Task7.deps.json
+C:\PragmatechCsharpProject\Week03\Task7\bin\Debug\netcoreapp3.1\Task7.runtimeconfig.json
+C:\PragmatechCsharpProject\Week03\Task7\bin\Debug\netcoreapp3.1\Task7.runtimeconfig.dev.json
+C:\PragmatechCsharpProject\Week03\Task7\bin\Debug\netcoreapp3.1\Task7.dll
+C:\PragmatechCsharpProject\Week03\Task7\bin\Debug\netcoreapp3.1\Task7.pdb
+C:\PragmatechCsharpProject\Week03\Task7\obj\Debug\netcoreapp3.1\Task7.AssemblyInfoInputs.cache
+C:\PragmatechCsharpProject\Week03\Task7\obj\Debug\netcoreapp3.1\Task7.AssemblyInfo.cs
+C:\PragmatechCsharpProject\Week03\Task7\obj\Debug\netcoreapp3.1\Task7.csproj.CoreCompileInputs.cache
+C:\PragmatechCsharpProject\Week03\Task7\obj\Debug\netcoreapp3.1\Task7.dll
+C:\PragmatechCsharpProject\Week03\Task7\obj\Debug\netcoreapp3.1\Task7.pdb
+C:\PragmatechCsharpProject\Week03\Task7\obj\Debug\netcoreapp3.1\Task7.genruntimeconfig.cache

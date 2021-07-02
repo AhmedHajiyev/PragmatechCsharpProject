@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f5UAx0SxXZclnvd/Uld5XaYqR4Qe1C11R9nWfekcu4fGrlUMq/OM+qCIJUkrQGj6TMpWCxJsr7YYyfYAfu+63A==",
+  "success": true,
+  "projectFilePath": "C:\\PragmatechCsharpProject\\Week04\\Task6\\Task6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hajiy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
