@@ -1,0 +1,13 @@
+C:\Users\hajiy\source\repos\Week02\Task6\obj\Debug\netcoreapp3.1\Task6.csprojAssemblyReference.cache
+C:\Users\hajiy\source\repos\Week02\Task6\obj\Debug\netcoreapp3.1\Task6.AssemblyInfoInputs.cache
+C:\Users\hajiy\source\repos\Week02\Task6\obj\Debug\netcoreapp3.1\Task6.AssemblyInfo.cs
+C:\Users\hajiy\source\repos\Week02\Task6\obj\Debug\netcoreapp3.1\Task6.csproj.CoreCompileInputs.cache
+C:\Users\hajiy\source\repos\Week02\Task6\bin\Debug\netcoreapp3.1\Task6.exe
+C:\Users\hajiy\source\repos\Week02\Task6\bin\Debug\netcoreapp3.1\Task6.deps.json
+C:\Users\hajiy\source\repos\Week02\Task6\bin\Debug\netcoreapp3.1\Task6.runtimeconfig.json
+C:\Users\hajiy\source\repos\Week02\Task6\bin\Debug\netcoreapp3.1\Task6.runtimeconfig.dev.json
+C:\Users\hajiy\source\repos\Week02\Task6\bin\Debug\netcoreapp3.1\Task6.dll
+C:\Users\hajiy\source\repos\Week02\Task6\bin\Debug\netcoreapp3.1\Task6.pdb
+C:\Users\hajiy\source\repos\Week02\Task6\obj\Debug\netcoreapp3.1\Task6.dll
+C:\Users\hajiy\source\repos\Week02\Task6\obj\Debug\netcoreapp3.1\Task6.pdb
+C:\Users\hajiy\source\repos\Week02\Task6\obj\Debug\netcoreapp3.1\Task6.genruntimeconfig.cache
