@@ -1,0 +1,10 @@
+C:\PragmatechCsharpProject\Week05\Task6\obj\Debug\Task6.Form1.resources
+C:\PragmatechCsharpProject\Week05\Task6\obj\Debug\Task6.Properties.Resources.resources
+C:\PragmatechCsharpProject\Week05\Task6\obj\Debug\Task6.csproj.GenerateResource.cache
+C:\PragmatechCsharpProject\Week05\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+C:\PragmatechCsharpProject\Week05\Task6\bin\Debug\Task6.exe.config
+C:\PragmatechCsharpProject\Week05\Task6\bin\Debug\Task6.exe
+C:\PragmatechCsharpProject\Week05\Task6\bin\Debug\Task6.pdb
+C:\PragmatechCsharpProject\Week05\Task6\obj\Debug\Task6.csprojAssemblyReference.cache
+C:\PragmatechCsharpProject\Week05\Task6\obj\Debug\Task6.exe
+C:\PragmatechCsharpProject\Week05\Task6\obj\Debug\Task6.pdb
