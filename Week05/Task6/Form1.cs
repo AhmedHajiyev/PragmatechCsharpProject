@@ -87,7 +87,7 @@ namespace Task6
             {
                 if (colorDialog1.ShowDialog() == DialogResult.OK)
                 {
-                    btnColor.BackColor = colorDialog1.Color;
+                    button2.BackColor = colorDialog1.Color;
                 }
             }
         }

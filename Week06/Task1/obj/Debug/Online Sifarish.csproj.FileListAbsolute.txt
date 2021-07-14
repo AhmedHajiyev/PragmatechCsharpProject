@@ -1,0 +1,10 @@
+C:\PragmatechCsharpProject\Week06\Task1\bin\Debug\Task1.exe.config
+C:\PragmatechCsharpProject\Week06\Task1\bin\Debug\Task1.exe
+C:\PragmatechCsharpProject\Week06\Task1\bin\Debug\Task1.pdb
+C:\PragmatechCsharpProject\Week06\Task1\obj\Debug\Online Sifarish.csprojAssemblyReference.cache
+C:\PragmatechCsharpProject\Week06\Task1\obj\Debug\Task1.Form1.resources
+C:\PragmatechCsharpProject\Week06\Task1\obj\Debug\Task1.Properties.Resources.resources
+C:\PragmatechCsharpProject\Week06\Task1\obj\Debug\Online Sifarish.csproj.GenerateResource.cache
+C:\PragmatechCsharpProject\Week06\Task1\obj\Debug\Online Sifarish.csproj.CoreCompileInputs.cache
+C:\PragmatechCsharpProject\Week06\Task1\obj\Debug\Task1.exe
+C:\PragmatechCsharpProject\Week06\Task1\obj\Debug\Task1.pdb
