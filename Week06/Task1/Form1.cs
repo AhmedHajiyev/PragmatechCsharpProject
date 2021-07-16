@@ -141,6 +141,7 @@ namespace Task1
                         //{
                             //listView1.Items.Remove(listView1.Items[a]);
                             MessageBox.Show("Bu mehsul var");
+                    
 
                             
                             
