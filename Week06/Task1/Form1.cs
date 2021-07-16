@@ -133,17 +133,14 @@ namespace Task1
 
             for (int i = 0; i < listView1.Items.Count; i++)
             {
-                if (listView1.Items[i].SubItems[1].Text != search )
+                if (listView1.Items[i].SubItems[1].Text == search )
                 {
                     //for (int a = listView1.Items.Count - 1; a > 0; a--)
                     //{
-                    //if (!listView1.Items[i].ToString().Contains(search))
-                    //{
-                    //listView1.Items.Remove(listView1.Items[a]);
-                    
-                            MessageBox.Show("Bu mehsul yoxdur");
-                    
-                    
+                       //if (!listView1.Items[i].ToString().Contains(search))
+                        //{
+                            //listView1.Items.Remove(listView1.Items[a]);
+                            MessageBox.Show("Bu mehsul var");
 
                             
                             
@@ -151,10 +148,9 @@ namespace Task1
                     //}
 
                 }
-
                 else
                 {
-                    MessageBox.Show("Bu mehsul var");
+                    MessageBox.Show("Bu mehsul yoxdur");
                 }
             }
         }
