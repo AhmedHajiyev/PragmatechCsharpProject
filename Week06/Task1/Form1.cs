@@ -140,19 +140,16 @@ namespace Task1
                        //if (!listView1.Items[i].ToString().Contains(search))
                         //{
                             //listView1.Items.Remove(listView1.Items[a]);
-                            MessageBox.Show("Bu mehsul var");
+                            MessageBox.Show($"Mehsul var: { Convert.ToString( listView1.Items[i].SubItems[1].Text)}");
                     
-
+                            
                             
                             
                         //}
                     //}
 
                 }
-                else
-                {
-                    MessageBox.Show("Bu mehsul yoxdur");
-                }
+                
             }
         }
 
